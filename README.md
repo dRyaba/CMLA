@@ -1,2 +1,2 @@
 # CMLA
-for computational workshop
+repo for computational methods of linear algebra
